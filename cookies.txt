@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-napabuds.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
-napabuds.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_34e27e00277dc536ae9ab3572669532f	t_4397597f38dec9c2518a2f306a6aa3%7C%7C1737989162%7C%7C1737985562%7C%7C574cd31960b2278c07ad35a1263f59ab
-napabuds.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	35aa2dfa6393a7883eb196087822b114
-napabuds.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	1812%7C1733%7C1632%7C1399%7C1383%7C1766%7C1795%7C1507%7C1643%7C1792%7C1807%7C1761%7C1824%7C1670%7C1802
-
